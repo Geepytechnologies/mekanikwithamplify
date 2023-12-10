@@ -67,6 +67,7 @@ const SignInScreen = () => {
     } catch (error) {
       if (error) {
         setLoading(false);
+
         console.log({ loadingerror: error })
         console.warn("there was an error")
 
