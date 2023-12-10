@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "mekanikapp",
+    "slug": "mekanikapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "com.geepytech.mekanikapp",
+    "icon": "./assets/images/newlogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/newlogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      [
+        "expo-document-picker",
+        {
+          "iCloudContainerEnvironment": "Production"
+        }
+      ]
+    ],
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      },
+      "bundleIdentifier": "com.geepytech.mekanikapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/newlogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.geepytech.mekanikapp",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/images/newlogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "733eade7-c7db-423b-8817-6db990731c40"
+      }
+    }
+  }
+}

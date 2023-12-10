@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "907851189600",
+    "project_id": "mekanik-33791",
+    "storage_bucket": "mekanik-33791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907851189600:android:089a8e7bb4c426e719a205",
+        "android_client_info": {
+          "package_name": "com.geepytech.mekanikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907851189600-r7tofn8rgho8ov66a00iaq94isnmbifl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geepytech.mekanikapp",
+            "certificate_hash": "d503b572e1ab794301c10d3dc6f153987a43dca4"
+          }
+        },
+        {
+          "client_id": "907851189600-q8apotl1f260g5hb7q9k3lug765riho0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4BqQnTbt8ypcobRdNNjwlPf29v2WJZQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907851189600-fehuhselu25c58vq4fpngkua7g98ad1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907851189600-9jlabe12voghadv1m6u7s4mk3h1ngi2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geepytech.mekanikApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
