@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "mekanikapp",
-    "slug": "mekanikapp",
+    "name": "mekanik",
+    "slug": "mekanik",
     "version": "1.0.0",
     "orientation": "portrait",
-    "scheme": "mekanikapp",
+    "scheme": "mekanik",
     "icon": "./assets/images/newlogo.png",
     "userInterfaceStyle": "light",
     "splash": {
